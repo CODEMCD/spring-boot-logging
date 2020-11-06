@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: info
+    com.codemcd.springbootloggingsystem.controller: debug
+    com.codemcd.springbootloggingsystem.service: trace
+    org.springframework: off
+    org.springframework.web: debug
